@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": '',
+  "homepage": "https://anestezia-zip.github.io/restaura-landing-page/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
